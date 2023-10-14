@@ -6,9 +6,9 @@
 }
 h1 {
       font-size: 48px;
-      padding: 20px;
-      stroke: 10px black;
-      border-radius: 20px;
+      padding: 0 50px;
+      margin: auto;
+      font-weight: 600;
 }
 a {
       padding: 10px;
@@ -20,8 +20,11 @@ a:hover {
 }
 dl {
       margin: 50px;
-      padding: 0, 20px , 0, 20px ;
       background-color: azure;
+      border-radius: 20px;
+}
+.table {
+      padding: 20px 10px;
 }
 dt,
 dd {
@@ -29,4 +32,7 @@ dd {
 }
 dd {
       
+}
+p {
+      padding: 0 50px;
 }
