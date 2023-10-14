@@ -1,0 +1,32 @@
+:root {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 14px;
+      background-color: beige;
+      margin: 50px;
+}
+h1 {
+      font-size: 48px;
+      padding: 20px;
+      stroke: 10px black;
+      border-radius: 20px;
+}
+a {
+      padding: 10px;
+      font-style: italic;
+      
+}
+a:hover {
+      color: blueviolet;
+}
+dl {
+      margin: 50px;
+      padding: 0, 20px , 0, 20px ;
+      background-color: azure;
+}
+dt,
+dd {
+      padding-bottom: 10px;
+}
+dd {
+      
+}
